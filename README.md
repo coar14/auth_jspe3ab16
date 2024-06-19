@@ -1,5 +1,3 @@
-
-```markdown
 # Laravel Authentication with Bootstrap
 
 This project demonstrates how to set up authentication in a Laravel application using Bootstrap for the frontend. It includes basic user authentication features such as registration, login, and password reset.
